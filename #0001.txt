@@ -3,9 +3,9 @@
 Belajar Html
 Belajar CSS
 Belajar Javascript
-Belajar Java
 Belajar PHP
 Belajar React Js
+Belajar Matlab
 
 ==== TUGAS AKHIR SKRIPSI ====
 
