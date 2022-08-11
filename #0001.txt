@@ -11,3 +11,9 @@ Belajar React Js
 
 ==== WORDPRESS ====
 Website senderhana
+
+==== Design Karakter ====
+karakter 3D
+
+==== Game ====
+game sederhana
