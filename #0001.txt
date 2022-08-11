@@ -1,0 +1,13 @@
+==== TARGET TAHUN 2022 ====
+====    PEMROGRAMAN    ====
+Belajar Html
+Belajar CSS
+Belajar Javascript
+Belajar Java
+Belajar PHP
+Belajar React Js
+
+==== TUGAS AKHIR SKRIPSI ====
+
+==== WORDPRESS ====
+Website senderhana
